@@ -1,7 +1,6 @@
 ## Della Izadi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-Who AM I
+I am a Highly motivated student at the Makers Academy. I'm hoping to start a new career in the Tech industury. 
 
 ## Projects
 
@@ -26,7 +25,9 @@ _Administrator_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+• Ruby • Git • GitHub • TDD • RSpec • Pair Programming • OOP • Team Work • Project Management
+
+(Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
 
 Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
 
@@ -43,7 +44,7 @@ I honed my communication skills while completing my thesis at university, which 
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Another skill
+#### Another skill)
 
 
 ## Education
