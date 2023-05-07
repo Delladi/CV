@@ -1,6 +1,7 @@
-## Your Name
+## Della Izadi
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Who AM I
 
 ## Projects
 
@@ -11,13 +12,15 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Oodle Car Finance - FinTech** ( Dec 2021 to Dec 2022)  
+_Payout Consultant_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Oxford University Hospitals - NHS Foundation Trust** (start-date to end-date)  
+_Performance management administrator_
+_Rotational Patient Pathway administrator_
+_Administrator_
 
 - Any experience relevent to software development
 
@@ -45,25 +48,25 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (May to August)
+
+- Software Developer Bootcamp: MAKERS ACADEMY (London, UK) 1 dev bootcamp in Europe / 16-week program / 10% acceptance rate
+- Teamwork and pair programming with effective communication
+- Proficient in Ruby programming language
+- Strong understanding of TDD, BDD RSpec and OOP programming
 - OOP, TDD, MVC, DDD
-- Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Oxford Brookes university (2015 -2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- _Computer Science_
 
-#### Any other qualifications
+#### City of Oxford College
 
-That in some arguable way make you a better software developer or well-rounded person
+_Extended Diploma in IT practitioner._
+
+- Understanding of Database, Microsoft office, Software and Hardware.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Gym , Dance and Music performance, acrobatic competitions.
