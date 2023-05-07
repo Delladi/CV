@@ -7,8 +7,8 @@ Who AM I
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Student Directory App**            | Command line app which manages student directory. | Ruby. |
+| **Coming soon** | A webapp . | Ruby              |
 
 ## Work Experience
 
