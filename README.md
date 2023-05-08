@@ -23,7 +23,7 @@ Before studying Computer Science at Brooks University in Oxford, I passed with d
 
 Expressing my creativity in my free time has always been mportant to me. I am a musician, singer, and dancer, thriving in giving to others the same opportunity to perform their talent. I get inspiration from famous poets and life events when writing my own lyrics, melody, and songs. I also made an album, music videos, and went on a tour to perform around south of England. This has been one of the most enriching experiences of my life. 
 
-**'V' for Visualisation skills **
+**'V' for Visualisation skills**
 
 Solving complex problems and implementing new procedures and processes are domains I have quickly learned to excel at. When working for the NHS, I was responsible for assessing any performance issues in our ways of working with specialists, nurses and doctors, but also coming up with solutions to tackle these issues. These include:
 - Creating checklists, reports and live shared repositories
@@ -125,4 +125,4 @@ _Extended Diploma in IT practitioner._
 
 ## Hobbies
 
-- Gym , Dance and Music performance, acrobatic competitions.
+- Gym, Dance and Music performance, acrobatic competitions.
