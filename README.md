@@ -16,9 +16,12 @@ _Payout Consultant_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Oxford University Hospitals - NHS Foundation Trust** (start-date to end-date)  
+**Oxford University Hospitals - NHS Foundation Trust** (start-date to end-date) 
+
 _Performance management administrator_
+
 _Rotational Patient Pathway administrator_
+
 _Administrator_
 
 - Any experience relevent to software development
