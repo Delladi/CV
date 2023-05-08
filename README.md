@@ -2,29 +2,28 @@
 Full Stack Development Student
 
 I am a Highly motivated student at the Makers Academy. I'm hoping to start a new career in the Tech industury. 
-
 I initially taught myself how to code and applied for Makers Scholarship. After 3 month of learning, I passed the technical requirements with a score of 97 percent. 10 percent of candidates are selected for the bootcamp, and a fraction of those gain a scholarship for free study.
 I am honoured to be one and currently enjoying the never ending journey of learning as part of Makers Academy Dev bootcamp.
 
-Since a young age and through my career, I have described myself being an active person. This is what it stands for:
+Since a young age and through my career, I have described myself being an *active* person. This is what it stands for:
 
-'A' for Agile
+**'A' for Agile**
 
 I worked in different types of organisation such as charities (Crisis), large public institutions  (NHS) and start ups (Oodle Car Finance). Although they all had various ways of working, challenges, and ambitions, I have always known how to adapt, work effectively on my own and with a team, and outperform. When working at Oodle for example, I was required to learn how the car finance industry works, understand its terminology and processes, and exceed targets very quickly. Not only did I achieve it within the first month, but I also did it continously throughout the year. This helped me to be nominated as one of the highest performing employee of the year by the organisation. 
 
-'C' for Community driven
+**'C' for Community driven**
 
 I am one of the founders of the Oxford 'Confluence cafe', a community of international artists, singers, musicians, dancers, and poets united to share their passions, knowledge and creations to anyone interested in attending our monthly events. In parallel to setting up the charity and raising funds, I ran multiple gigs, festivals and events across Oxfordshire to help raise awareness around the different types of art, promote inclusive performance, give exposure to local and international artists, and raise money for the charity. 
 
-'T' for Tenacious
+**'T' for Tenacious**
 
 Before studying Computer Science at Brooks University in Oxford, I passed with distinction my IT Practitioner extended diploma. I truly appreciated to be learning a subject that I am passionate about. Unfortunately, due to financial constraints, I had to drop out University. However I didn't give up my ambition to start my career in tech. After working for the NHS, I worked for a start up / FinTech and collaborated with many Product Managers and Software Engineers to develop best-in-class loan processing systems and apps for their customers. This eye opening experience made me realise how much I wanted to develop my skills and resume my studies in the world of technology. 
 
-'I' for Imaginative
+**'I' for Imaginative**
 
 Expressing my creativity in my free time has always been mportant to me. I am a musician, singer, and dancer, thriving in giving to others the same opportunity to perform their talent. I get inspiration from famous poets and life events when writing my own lyrics, melody, and songs. I also made an album, music videos, and went on a tour to perform around south of England. This has been one of the most enriching experiences of my life. 
 
-'V' for Visualisation skills 
+**'V' for Visualisation skills **
 
 Solving complex problems and implementing new procedures and processes are domains I have quickly learned to excel at. When working for the NHS, I was responsible for assessing any performance issues in our ways of working with specialists, nurses and doctors, but also coming up with solutions to tackle these issues. These include:
 - Creating checklists, reports and live shared repositories
@@ -32,7 +31,7 @@ Solving complex problems and implementing new procedures and processes are domai
 - Maintaining clear and concise communication through regular posts on the intranet. 
 These helped the medical staff save admin time and allocate it to patients in need. 
 
-'E' for Emotionally intelligent 
+**'E' for Emotionally intelligent **
 
 Through my career, I have worked in organisations helping to support homelesses, people looking for jobs, and patients with critical health issues.
 All of these work environments had different set of challenges but were equally as stressful. Serving these people in need helped me become more aware of my own emotions, set healthy boundaries, and build stronger responses to stress. I have also been trained to coach, mediate and manage conflict more effectively, which I have been reusing with success in my most recent role at Oodle when handling customer queries. Without those skills, I strongly believe that I wouldn't be where I am now and making a difference in my career.
