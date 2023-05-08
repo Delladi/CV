@@ -14,7 +14,17 @@ I am a Highly motivated student at the Makers Academy. I'm hoping to start a new
 **Oodle Car Finance - FinTech** ( Dec 2021 to Dec 2022)  
 _Payout Consultant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Strong operational knowledge in car finance loan origination and use of Salesforce
+- Developed exceptional customer service and security phone calls skills
+- Strong interpersonal and team working skills
+- Risk assessment, Proof of Income (POI) approval and fraud prevention measures 
+- In charge of training and auditing co-workers
+- Ensured company compliance to regulatory financial standards
+- Adept at working with multiple teams such as car dealers, sales representatives, underwriters, and financial crime analysts to create an efficient, effective, and customer-centric working environment
+- Analytical reasoning and a meticulous eye for detail
+- Strong operational knowledge in car finance loan origination and use of Salesforce • Developed exceptional customer service and security phone calls skills • Strong interpersonal and team working skills • Risk assessment, Proof of Income (POI) approval and fraud prevention measures • In charge of training and auditing co-workers • Ensured company compliance to regulatory financial standards • Adept at working with multiple teams such as car dealers, sales representatives, underwriters, and financial crime analysts to create an efficient, effective, and customer-centric working environment • Analytical reasoning and a meticulous eye for detail
+
+Skills: Salesforce.com · Customer Service Operations · Proof of Income approval · Risk Assessment · Fraud Investigations
 
 **Oxford University Hospitals - NHS Foundation Trust** (start-date to end-date) 
 
