@@ -1,9 +1,9 @@
 ## Della Izadi
 Full Stack Development Student
 
-I am a Highly motivated student at the Makers Academy. I'm hoping to start a new career in the Tech industury. 
-I initially taught myself how to code and applied for Makers Scholarship. After 3 month of learning, I passed the technical requirements with a score of 97 percent. 10 percent of candidates are selected for the bootcamp, and a fraction of those gain a scholarship for free study.
-I am honoured to be one and currently enjoying the never ending journey of learning as part of Makers Academy Dev bootcamp.
+I am a highly self-motivated, data-driven, and hard-working professional, transitioning to the world of technology. I am currently studying Software Engineering at the Makers Academy.
+I'm hoping to start a new career in the Tech industry. 
+I initially taught myself how to code and applied for Makers Scholarship. After 3 month of learning, I passed the technical requirements with a score of 97 percent. 10 percent of candidates are selected for the bootcamp, and a fraction of those gain a scholarship for free study. I am honoured to be one and currently enjoying the never ending journey of learning as part of Makers Academy Dev bootcamp.
 
 Since a young age and through my career, I have described myself being an *active* person. This is what it stands for:
 
