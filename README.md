@@ -29,6 +29,7 @@ Skills: Salesforce.com · Customer Service Operations · Proof of Income approva
 **Oxford University Hospitals - NHS Foundation Trust** (Jan 2018 to Dec 2021) 
 
 _Performance management administrator_
+
 Stepped up to this new role to coordinate with a team of 20+ specialists, podiatrists, and consultants within 2 departments across four hospital sites.
 - My role has been very versatile and has evolved so much around the department’s needs to ensure the staff and patients are supported in all the non-medical aspects to function smoothly and efficiently as a team. 
 - I contributed my upmost and supported the team throughout many challenges especially during Covid with significant lack of resources. 
@@ -36,9 +37,11 @@ Stepped up to this new role to coordinate with a team of 20+ specialists, podiat
 
 _Rotational Patient Pathway administrator_
 
-_Administrator_
+Worked at several specialist surgeries departments such as: the Plastic, Ear, Nose and Throat (ENT), Oral and Maxillofacial (MAXFAX) surgery departments at the Oxford University hospitals (John Radcliffe and Churchill). 
+My role involved providing full support to consultants (surgeons), their teams and patients. This included emails, telephone enquiries, managing inpatient/outpatient waiting lists and diagnostic waiting times. I have been also tracking patients throughout their 18-week Referral To Treatment (RTT) pathway, working within the outpatient booking and waiting list, teams. 
+Finally, I work with the Trust's Electronic Patient Record System (EPR) and other systems daily.
 
-- Any experience relevent to software development
+- (Any experience relevent to software development)
 
 ## Skills
 
