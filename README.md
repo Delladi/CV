@@ -31,7 +31,7 @@ Solving complex problems and implementing new procedures and processes are domai
 - Maintaining clear and concise communication through regular posts on the intranet. 
 These helped the medical staff save admin time and allocate it to patients in need. 
 
-**'E' for Emotionally intelligent **
+**'E' for Emotionally intelligent**
 
 Through my career, I have worked in organisations helping to support homelesses, people looking for jobs, and patients with critical health issues.
 All of these work environments had different set of challenges but were equally as stressful. Serving these people in need helped me become more aware of my own emotions, set healthy boundaries, and build stronger responses to stress. I have also been trained to coach, mediate and manage conflict more effectively, which I have been reusing with success in my most recent role at Oodle when handling customer queries. Without those skills, I strongly believe that I wouldn't be where I am now and making a difference in my career.
