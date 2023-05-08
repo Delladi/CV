@@ -26,9 +26,13 @@ _Payout Consultant_
 
 Skills: Salesforce.com · Customer Service Operations · Proof of Income approval · Risk Assessment · Fraud Investigations
 
-**Oxford University Hospitals - NHS Foundation Trust** (start-date to end-date) 
+**Oxford University Hospitals - NHS Foundation Trust** (Jan 2018 to Dec 2021) 
 
 _Performance management administrator_
+Stepped up to this new role to coordinate with a team of 20+ specialists, podiatrists, and consultants within 2 departments across four hospital sites.
+- My role has been very versatile and has evolved so much around the department’s needs to ensure the staff and patients are supported in all the non-medical aspects to function smoothly and efficiently as a team. 
+- I contributed my upmost and supported the team throughout many challenges especially during Covid with significant lack of resources. 
+- I have transformed the team using: efficient systems, processes, and ongoing support; significantly improving the historical challenges such as collaboration and productivity.
 
 _Rotational Patient Pathway administrator_
 
