@@ -42,7 +42,7 @@ All of these work environments had different set of challenges but were equally 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Student Directory App**            | Command line app which manages student directory. | Ruby. |
-| **Coming soon** | A webapp . | Ruby              |
+| **Cummnity cupboard** | A webapp . | JavaScript, React    |
 
 ## Work Experience
 
