@@ -47,16 +47,15 @@ All of these work environments had different set of challenges but were equally 
 ## Work Experience
 
 **Oodle Car Finance - FinTech** ( Dec 2021 to Dec 2022)  
-_Payout Consultant_
+Payout Consultant
 
-- Strong operational knowledge in car finance loan origination and use of Salesforce
-- Developed exceptional customer service and security phone calls skills
-- Strong interpersonal and team working skills
-- Risk assessment, Proof of Income (POI) approval and fraud prevention measures 
-- In charge of training and auditing co-workers
-- Ensured company compliance to regulatory financial standards
-- Adept at working with multiple teams such as car dealers, sales representatives, underwriters, and financial crime analysts to create an efficient, effective, and customer-centric working environment
-- Analytical reasoning and a meticulous eye for detail
+-Spearheaded operational excellence in car finance loan origination, utilizing Salesforce and risk assessment techniques.
+-Strengthened customer service through skillful phone communication, ensuring compliance with security protocols.
+-Led training and audits for team members, enhancing understanding of Proof of Income (POI) approval and fraud prevention.
+-Collaborated with cross-functional teams, including car dealers, underwriters, and analysts, fostering a customer-centric environment.
+-Successfully navigated regulatory financial standards, ensuring company-wide compliance.
+-Elevated efficiency by creating reports, checklists, and live shared repositories.
+-Quantified impact through consistent achievement of targets and nomination as a top-performing employee.
 - Strong operational knowledge in car finance loan origination and use of Salesforce • Developed exceptional customer service and security phone calls skills • Strong interpersonal and team working skills • Risk assessment, Proof of Income (POI) approval and fraud prevention measures • In charge of training and auditing co-workers • Ensured company compliance to regulatory financial standards • Adept at working with multiple teams such as car dealers, sales representatives, underwriters, and financial crime analysts to create an efficient, effective, and customer-centric working environment • Analytical reasoning and a meticulous eye for detail
 
 Skills: Salesforce.com · Customer Service Operations · Proof of Income approval · Risk Assessment · Fraud Investigations
